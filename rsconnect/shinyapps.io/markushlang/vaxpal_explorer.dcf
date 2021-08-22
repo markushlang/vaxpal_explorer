@@ -1,0 +1,12 @@
+name: vaxpal_explorer
+title: vaxpal_explorer
+username:
+account: markushlang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4520887
+bundleId: 4950333
+url: https://markushlang.shinyapps.io/vaxpal_explorer/
+when: 1629635858.90706
+asMultiple: FALSE
+asStatic: FALSE
